@@ -1,4 +1,4 @@
-# Twitter Django Clone
+# Twitter - Made by Django
 
 A simple Twitter-like web application built with Django. Users can register, log in, create tweets (with optional photos), edit, and delete their own tweets.
 
